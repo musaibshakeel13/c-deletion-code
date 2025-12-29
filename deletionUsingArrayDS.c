@@ -11,8 +11,6 @@ void deletion(int arr[],int size,int index){
         arr[i]= arr[i+1];
 
     }    
-        
-  
 }
 int main(){
     int arr[100];
